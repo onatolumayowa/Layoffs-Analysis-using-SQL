@@ -2,14 +2,14 @@
 
 ## Table of Contents
 
-1. [Project Overview](project-overview)
-2. [Data Source](data-sources)
-3. [Tools](tools)
-4. [Data Cleaning/Preparation](data-cleaning/preparation)
-5. [Questions](questions)
-6. [Data Analysis](data-analysis)
-7. [Results](results)
-8. [Limitations](limitations)
+- [Project Overview](#project-overview)
+- [Data Source](#data-source)
+- [Tools](tools)
+- [Data Cleaning](#data-cleaning)
+- [Questions](#questions)
+- [Data Analysis](#data-analysis)
+- [Results](#results)
+- [Limitations](#limitations)
 
 ### Project Overview
 
@@ -24,7 +24,7 @@ Data: The primary dataset used for this analysis is the       containing detaile
 - SQL - Data Cleaning And Data Analysis
     - [Download here](https://dev.mysql.com/downloads/workbench/)
 
-### Data Cleaning/Preparation
+### Data Cleaning
 
 In the initial data prepation phase, I performed the following task:
 
