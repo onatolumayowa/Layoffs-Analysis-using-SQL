@@ -17,7 +17,7 @@ This project analyzes the total laid off across the world by different companyâ€
 
 ### Data Source
 
-Data: The primary dataset used for this analysis is the       containing detailed information about the world layoffs.
+Data: The primary dataset used for this analysis is the [layoffs](https://github.com/onatolumayowa/Layoffs-Analysis-using-SQL/blob/main/layoffs.csv) containing detailed information about the world layoffs.
 
 ### Tools
 
