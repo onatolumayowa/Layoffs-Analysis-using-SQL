@@ -21,7 +21,7 @@ Data: The primary dataset used for this analysis is the [layoffs](https://github
 
 ### Tools
 
-- SQL - Data Cleaning And Data Analysis
+- MySQL - Data Cleaning And Data Analysis
     - [Download here](https://dev.mysql.com/downloads/workbench/)
 
 ### Data Cleaning
